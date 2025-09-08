@@ -1,5 +1,5 @@
-name: "GUGU黑名单插件"
+name: "GUGUblack"
 version: "1.1.0"
-desc: "高优先级消息拦截插件，提供用户/群聊黑名单功能，并在发送前拦截 AstrBot 错误信息"
+desc: "用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示"
 author: "GUGU"
-repo: ""
+repo: "https://github.com/huangyuzhe/astrbot_plugin_GUGUblack"
