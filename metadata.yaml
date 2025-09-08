@@ -1,5 +1,5 @@
 name: "GUGUblack"
 version: "1.1.0"
-desc: "用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示"
+desc: "[仅QQ]用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示"
 author: "YUNYUN"
 repo: "https://github.com/huangyuzhe/astrbot_plugin_GUGUblack"
