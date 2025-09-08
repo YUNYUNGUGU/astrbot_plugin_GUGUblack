@@ -1,5 +1,5 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: "GUGU黑名单插件"
+version: "1.1.0"
+desc: "高优先级消息拦截插件，提供用户/群聊黑名单功能，并在发送前拦截 AstrBot 错误信息"
+author: "GUGU"
+repo: ""
