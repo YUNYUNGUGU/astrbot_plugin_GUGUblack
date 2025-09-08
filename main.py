@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-GUGU的黑名单插件
+YUNYUN的黑名单插件
 提供用户黑名单，群聊黑名单功能，拦截系统错误功能。
 """
 
@@ -17,14 +17,14 @@ import astrbot.core.message.components as Comp
 from astrbot.core.star import Star
 
 # 插件名称
-PLUGIN_NAME = "GUGU黑名单插件"
+PLUGIN_NAME = "GUGUblack"
 
 # 获取日志记录器
 logger = logging.getLogger(__name__)
 
 
 class GUGUBlacklistPlugin(Star):
-    """GUGU黑名单插件主类"""
+    """GUGUblack插件主类"""
     
     def __init__(self, context=None, config=None):
         super().__init__(context=context, config=config)
